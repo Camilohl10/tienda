@@ -8,3 +8,7 @@ function escribir() {
         }
     }
  }
+ function los(params) {
+     console.log("asdsa");
+     
+ }
